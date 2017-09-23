@@ -19,8 +19,7 @@ import Members from './pages/members'
 import {APP_ID} from './consts'
 import SendBird from 'sendbird'
 var sb = null;
-
-
+/*test change*/
 
 var ROUTES = {
   login: Login,
