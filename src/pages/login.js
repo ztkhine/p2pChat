@@ -17,7 +17,7 @@ const LoginView = Platform.select({
 import Button from '../components/button'
 import SendBird from 'sendbird'
 var sb = null;
-
+/* first comment --  */
 export default class Login extends Component {
   constructor(props) {
     super(props);
