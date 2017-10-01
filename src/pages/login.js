@@ -22,15 +22,17 @@ export default class Login extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      userId: 'AA',
-      username: 'AA',
+      userId: '',
+      username: '',
       connectLabel: 'CONNECT',
       buttonDisabled: true,
       errorMessage: ''
     };
     this._onPressConnect = this._onPressConnect.bind(this);
     this._onPressOpenChannel = this._onPressOpenChannel.bind(this);
-    this._onPressGroupChannel = this._onPressGroupChannel.bind(this)
+    this._onPressGroupChannel = this._onPressGroupChannel.bind(this);
+    this._onPressSketch = this._onPressSketch.bind(this)
+
   }
 
   _onPressConnect() {
@@ -43,8 +45,8 @@ export default class Login extends Component {
 
     if (this.state.username.trim().length == 0 || this.state.userId.trim().length == 0) {
       this.setState({
-        userId: 'AA',
-        username: 'AA',
+        userId: '',
+        username: '',
         errorMessage: 'User ID and Nickname must be required.'
       });
       return;
@@ -106,6 +108,10 @@ export default class Login extends Component {
   _onPressGroupChannel() {
     this.props.navigator.push({name: 'groupChannel'});
   }
+  _onPressSketch() {
+    this.props.navigator.push({name: 'sketchImage'});
+  }
+
 
   _onPressDisconnect() {
     sb.disconnect();
@@ -159,16 +165,21 @@ export default class Login extends Component {
 
           <Text style={styles.errorLabel}>{this.state.errorMessage}</Text>
           <Button
-            text={'Group Channel'}
+            text={'Start Chat'}
             style={this._buttonStyle()}
             disabled={this.state.buttonDisabled}
             onPress={this._onPressGroupChannel}
           />
           <Button
-            text={'Open Channel'}
+            text={'Public Chat'}
             style={this._buttonStyle()}
             disabled={this.state.buttonDisabled}
             onPress={this._onPressOpenChannel}
+          />
+          <Button
+            text={'Sketch Chat'}
+            style={this._buttonStyle()}
+            onPress={this._onPressSketch}
           />
 
         </View>

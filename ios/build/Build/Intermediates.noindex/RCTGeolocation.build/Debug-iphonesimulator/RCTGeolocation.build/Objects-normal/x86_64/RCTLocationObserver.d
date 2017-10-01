@@ -1,23 +1,23 @@
 dependencies: \
-  /usr/local/bin/SendBirdReactNativeSample/node_modules/react-native/Libraries/Geolocation/RCTLocationObserver.m \
-  /usr/local/bin/SendBirdReactNativeSample/node_modules/react-native/Libraries/Geolocation/RCTLocationObserver.h \
-  /usr/local/bin/SendBirdReactNativeSample/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
-  /usr/local/bin/SendBirdReactNativeSample/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
-  /usr/local/bin/SendBirdReactNativeSample/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
-  /usr/local/bin/SendBirdReactNativeSample/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
-  /usr/local/bin/SendBirdReactNativeSample/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
-  /usr/local/bin/SendBirdReactNativeSample/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
-  /usr/local/bin/SendBirdReactNativeSample/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
-  /usr/local/bin/SendBirdReactNativeSample/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
-  /usr/local/bin/SendBirdReactNativeSample/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
-  /usr/local/bin/SendBirdReactNativeSample/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
-  /usr/local/bin/SendBirdReactNativeSample/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
-  /usr/local/bin/SendBirdReactNativeSample/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
-  /usr/local/bin/SendBirdReactNativeSample/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
-  /usr/local/bin/SendBirdReactNativeSample/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
-  /usr/local/bin/SendBirdReactNativeSample/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
-  /usr/local/bin/SendBirdReactNativeSample/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
-  /usr/local/bin/SendBirdReactNativeSample/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
-  /usr/local/bin/SendBirdReactNativeSample/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
-  /usr/local/bin/SendBirdReactNativeSample/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
-  /usr/local/bin/SendBirdReactNativeSample/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h
+  /Users/khinezinthet24/P2PChat/node_modules/react-native/Libraries/Geolocation/RCTLocationObserver.m \
+  /Users/khinezinthet24/P2PChat/node_modules/react-native/Libraries/Geolocation/RCTLocationObserver.h \
+  /Users/khinezinthet24/P2PChat/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
+  /Users/khinezinthet24/P2PChat/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/khinezinthet24/P2PChat/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/khinezinthet24/P2PChat/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/khinezinthet24/P2PChat/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/khinezinthet24/P2PChat/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/khinezinthet24/P2PChat/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/khinezinthet24/P2PChat/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/khinezinthet24/P2PChat/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/khinezinthet24/P2PChat/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/khinezinthet24/P2PChat/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/khinezinthet24/P2PChat/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/khinezinthet24/P2PChat/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/khinezinthet24/P2PChat/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/khinezinthet24/P2PChat/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/khinezinthet24/P2PChat/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/khinezinthet24/P2PChat/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/khinezinthet24/P2PChat/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/khinezinthet24/P2PChat/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/khinezinthet24/P2PChat/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h

@@ -1,10 +1,10 @@
 dependencies: \
-  /usr/local/bin/SendBirdReactNativeSample/node_modules/react-native/React/Base/RCTJSCErrorHandling.mm \
-  /usr/local/bin/SendBirdReactNativeSample/node_modules/react-native/React/Base/RCTJSCErrorHandling.h \
-  /usr/local/bin/SendBirdReactNativeSample/node_modules/react-native/React/Base/RCTDefines.h \
-  /usr/local/bin/SendBirdReactNativeSample/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
-  /usr/local/bin/SendBirdReactNativeSample/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
-  /usr/local/bin/SendBirdReactNativeSample/node_modules/react-native/React/Base/RCTAssert.h \
-  /usr/local/bin/SendBirdReactNativeSample/node_modules/react-native/React/Base/RCTJSStackFrame.h \
-  /usr/local/bin/SendBirdReactNativeSample/node_modules/react-native/React/Base/RCTLog.h \
-  /usr/local/bin/SendBirdReactNativeSample/node_modules/react-native/React/Base/RCTUtils.h
+  /Users/khinezinthet24/P2PChat/node_modules/react-native/React/Base/RCTJSCErrorHandling.mm \
+  /Users/khinezinthet24/P2PChat/node_modules/react-native/React/Base/RCTJSCErrorHandling.h \
+  /Users/khinezinthet24/P2PChat/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/khinezinthet24/P2PChat/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/khinezinthet24/P2PChat/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/khinezinthet24/P2PChat/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/khinezinthet24/P2PChat/node_modules/react-native/React/Base/RCTJSStackFrame.h \
+  /Users/khinezinthet24/P2PChat/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/khinezinthet24/P2PChat/node_modules/react-native/React/Base/RCTUtils.h

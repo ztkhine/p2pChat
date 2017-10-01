@@ -107,10 +107,10 @@ export default class GroupChannel extends Component {
     var _SELF = this;
     if (_SELF.state.editMode) {
       Alert.alert(
-        'Group Channel Edit',
+        'Edit  Chat',
         null,
         [
-          {text: 'leave', onPress: () => {
+          {text: 'Leave', onPress: () => {
             channel.leave(function(response, error) {
               if (error) {
                 console.log(error);
@@ -119,7 +119,7 @@ export default class GroupChannel extends Component {
               _SELF._onHideChannel(channel);
             });
           }},
-          {text: 'hide', onPress: () => {
+          {text: 'Hide', onPress: () => {
             channel.hide(function(response, error) {
               if (error) {
                 console.log(error);
@@ -179,7 +179,7 @@ export default class GroupChannel extends Component {
     var _SELF = this;
     if (_SELF.state.editMode) {
       Alert.alert(
-        'Group Channel Event',
+        'Chat Event',
         null,
         [
           {text: 'Done', onPress: () => {
@@ -189,7 +189,7 @@ export default class GroupChannel extends Component {
       )
     } else{
       Alert.alert(
-        'Group Channel Event',
+        'Chat Event',
         null,
         [
           {text: 'Edit', onPress: () => {
@@ -210,7 +210,7 @@ export default class GroupChannel extends Component {
         <TopBar
           onBackPress={this._onBackPress.bind(this)}
           onGroupChannel={this._onGroupChannel.bind(this)}
-          title='Group Channel'
+          title='Chat'
            />
 
         <View style={styles.listContainer}>

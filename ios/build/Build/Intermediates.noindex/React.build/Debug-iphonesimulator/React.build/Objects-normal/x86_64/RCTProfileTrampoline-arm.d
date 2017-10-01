@@ -1,4 +1,4 @@
 dependencies: \
-  /usr/local/bin/SendBirdReactNativeSample/node_modules/react-native/React/Profiler/RCTProfileTrampoline-arm.S \
-  /usr/local/bin/SendBirdReactNativeSample/node_modules/react-native/React/Base/RCTDefines.h \
-  /usr/local/bin/SendBirdReactNativeSample/node_modules/react-native/React/Profiler/RCTMacros.h
+  /Users/khinezinthet24/P2PChat/node_modules/react-native/React/Profiler/RCTProfileTrampoline-arm.S \
+  /Users/khinezinthet24/P2PChat/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/khinezinthet24/P2PChat/node_modules/react-native/React/Profiler/RCTMacros.h

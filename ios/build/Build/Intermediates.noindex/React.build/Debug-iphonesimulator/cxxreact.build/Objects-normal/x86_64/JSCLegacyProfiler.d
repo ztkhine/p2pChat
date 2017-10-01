@@ -1,2 +1,2 @@
 dependencies: \
-  /usr/local/bin/SendBirdReactNativeSample/node_modules/react-native/ReactCommon/cxxreact/JSCLegacyProfiler.cpp
+  /Users/khinezinthet24/P2PChat/node_modules/react-native/ReactCommon/cxxreact/JSCLegacyProfiler.cpp

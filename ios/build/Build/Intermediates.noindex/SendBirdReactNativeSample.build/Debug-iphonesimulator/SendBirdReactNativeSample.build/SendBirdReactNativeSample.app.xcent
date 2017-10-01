@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>application-identifier</key>
-	<string>8K8M9F9X95.com.sendbird.sample</string>
+	<string>7XCD234C45.org.reactjs.native.example.SendBirdReactNativeSample1</string>
 	<key>aps-environment</key>
 	<string>development</string>
 </dict>

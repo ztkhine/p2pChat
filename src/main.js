@@ -15,6 +15,7 @@ import BlockList from './pages/blockList';
 import GroupChannel from './pages/groupChannel';
 import InviteUser from './pages/inviteUser';
 import Members from './pages/members'
+import SketchImage from './pages/sketchImage';
 
 import {APP_ID} from './consts'
 import SendBird from 'sendbird'
@@ -30,7 +31,8 @@ var ROUTES = {
   blockList: BlockList,
   groupChannel: GroupChannel,
   inviteUser: InviteUser,
-  members: Members
+  members: Members,
+  sketchImage: SketchImage
 };
 
 export default class Main extends Component {

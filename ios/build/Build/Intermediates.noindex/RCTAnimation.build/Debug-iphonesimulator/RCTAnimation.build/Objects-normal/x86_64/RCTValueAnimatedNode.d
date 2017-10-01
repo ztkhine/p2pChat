@@ -1,4 +1,4 @@
 dependencies: \
-  /usr/local/bin/SendBirdReactNativeSample/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.m \
-  /usr/local/bin/SendBirdReactNativeSample/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.h \
-  /usr/local/bin/SendBirdReactNativeSample/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.h
+  /Users/khinezinthet24/P2PChat/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.m \
+  /Users/khinezinthet24/P2PChat/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.h \
+  /Users/khinezinthet24/P2PChat/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.h

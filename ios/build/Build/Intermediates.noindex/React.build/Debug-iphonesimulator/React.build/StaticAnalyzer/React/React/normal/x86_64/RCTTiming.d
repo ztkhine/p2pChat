@@ -1,14 +1,14 @@
 dependencies: \
-  /usr/local/bin/SendBirdReactNativeSample/node_modules/react-native/React/Modules/RCTTiming.m \
-  /usr/local/bin/SendBirdReactNativeSample/node_modules/react-native/React/Modules/RCTTiming.h \
-  /usr/local/bin/SendBirdReactNativeSample/node_modules/react-native/React/Base/RCTBridgeModule.h \
-  /usr/local/bin/SendBirdReactNativeSample/node_modules/react-native/React/Base/RCTDefines.h \
-  /usr/local/bin/SendBirdReactNativeSample/node_modules/react-native/React/Base/RCTFrameUpdate.h \
-  /usr/local/bin/SendBirdReactNativeSample/node_modules/react-native/React/Base/RCTInvalidating.h \
-  /usr/local/bin/SendBirdReactNativeSample/node_modules/react-native/React/Base/RCTAssert.h \
-  /usr/local/bin/SendBirdReactNativeSample/node_modules/react-native/React/Base/RCTBridge+Private.h \
-  /usr/local/bin/SendBirdReactNativeSample/node_modules/react-native/React/Base/RCTBridge.h \
-  /usr/local/bin/SendBirdReactNativeSample/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
-  /usr/local/bin/SendBirdReactNativeSample/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
-  /usr/local/bin/SendBirdReactNativeSample/node_modules/react-native/React/Base/RCTLog.h \
-  /usr/local/bin/SendBirdReactNativeSample/node_modules/react-native/React/Base/RCTUtils.h
+  /Users/khinezinthet24/P2PChat/node_modules/react-native/React/Modules/RCTTiming.m \
+  /Users/khinezinthet24/P2PChat/node_modules/react-native/React/Modules/RCTTiming.h \
+  /Users/khinezinthet24/P2PChat/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/khinezinthet24/P2PChat/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/khinezinthet24/P2PChat/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/khinezinthet24/P2PChat/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/khinezinthet24/P2PChat/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/khinezinthet24/P2PChat/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/khinezinthet24/P2PChat/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/khinezinthet24/P2PChat/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/khinezinthet24/P2PChat/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/khinezinthet24/P2PChat/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/khinezinthet24/P2PChat/node_modules/react-native/React/Base/RCTUtils.h

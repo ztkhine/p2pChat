@@ -1,6 +1,6 @@
 dependencies: \
-  /usr/local/bin/SendBirdReactNativeSample/node_modules/react-native/ReactCommon/yoga/yoga/Yoga.c \
-  /usr/local/bin/SendBirdReactNativeSample/node_modules/react-native/ReactCommon/yoga/yoga/YGNodeList.h \
-  /usr/local/bin/SendBirdReactNativeSample/node_modules/react-native/ReactCommon/yoga/yoga/YGMacros.h \
-  /usr/local/bin/SendBirdReactNativeSample/node_modules/react-native/ReactCommon/yoga/yoga/Yoga.h \
-  /usr/local/bin/SendBirdReactNativeSample/node_modules/react-native/ReactCommon/yoga/yoga/YGEnums.h
+  /Users/khinezinthet24/P2PChat/node_modules/react-native/ReactCommon/yoga/yoga/Yoga.c \
+  /Users/khinezinthet24/P2PChat/node_modules/react-native/ReactCommon/yoga/yoga/YGNodeList.h \
+  /Users/khinezinthet24/P2PChat/node_modules/react-native/ReactCommon/yoga/yoga/YGMacros.h \
+  /Users/khinezinthet24/P2PChat/node_modules/react-native/ReactCommon/yoga/yoga/Yoga.h \
+  /Users/khinezinthet24/P2PChat/node_modules/react-native/ReactCommon/yoga/yoga/YGEnums.h

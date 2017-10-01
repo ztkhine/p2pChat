@@ -258,7 +258,7 @@ export default class Chat extends Component {
   _onOpenMenu() {
     if (this.state.channel.channelType == 'open') {
       Alert.alert(
-        'Open Channel',
+        'Open Chat',
         null,
         [
           {text: 'Participant list', onPress: () => {this._onPressParticipants();}},
@@ -269,13 +269,13 @@ export default class Chat extends Component {
     } else {
       var _SELF = this;
       Alert.alert(
-        'Group Channel Event',
+        'Chat Event',
         null,
         [
-          {text: 'Invite users to this channel', onPress: () => {
+          {text: 'Invite users to this chat', onPress: () => {
             this.props.navigator.push({name: 'inviteUser', channel: this.state.channel});
           }},
-          {text: 'Leave this channel', onPress: () => {
+          {text: 'Leave this chat', onPress: () => {
             this.state.channel.leave(function(response, error) {
               if (error) {
                 console.log(error);
@@ -285,7 +285,7 @@ export default class Chat extends Component {
               setTimeout(function() {_SELF.props.route._onHideChannel(_SELF.state.channel);}, 500);
             });
           }},
-          {text: 'Hide this channel', onPress: () => {
+          {text: 'Hide this chat', onPress: () => {
             this.state.channel.hide(function(response, error) {
               if (error) {
                 console.log(error);

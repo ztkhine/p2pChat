@@ -1,3 +1,3 @@
 dependencies: \
-  /usr/local/bin/SendBirdReactNativeSample/node_modules/react-native-fetch-blob/ios/RNFetchBlobProgress.m \
-  /usr/local/bin/SendBirdReactNativeSample/node_modules/react-native-fetch-blob/ios/RNFetchBlobProgress.h
+  /Users/khinezinthet24/P2PChat/node_modules/react-native-fetch-blob/ios/RNFetchBlobProgress.m \
+  /Users/khinezinthet24/P2PChat/node_modules/react-native-fetch-blob/ios/RNFetchBlobProgress.h

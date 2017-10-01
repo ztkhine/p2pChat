@@ -1,3 +1,3 @@
 dependencies: \
-  /usr/local/bin/SendBirdReactNativeSample/ios/SendBirdReactNativeSample/main.m \
-  /usr/local/bin/SendBirdReactNativeSample/ios/SendBirdReactNativeSample/AppDelegate.h
+  /Users/khinezinthet24/P2PChat/ios/SendBirdReactNativeSample/main.m \
+  /Users/khinezinthet24/P2PChat/ios/SendBirdReactNativeSample/AppDelegate.h
