@@ -419,7 +419,8 @@ export default class Chat extends Component {
           <Button
             style={styles.sendButton}
             onPress={this._onSend}
-            disabled={this.state.disabled}
+            /*disabled={this.state.disabled}*/ /* comment by Khine, Enable this to make "Send" Button work*/
+            /* disabled = {true} */ /* uncomment this to disable send button */
           >{'send'}</Button>
         </View>
       </ChatView>

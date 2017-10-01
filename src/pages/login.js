@@ -170,6 +170,7 @@ export default class Login extends Component {
             disabled={this.state.buttonDisabled}
             onPress={this._onPressGroupChannel}
           />
+          {/*Comment by Khine, hide buttons
           <Button
             text={'Public Chat'}
             style={this._buttonStyle()}
@@ -181,7 +182,7 @@ export default class Login extends Component {
             style={this._buttonStyle()}
             onPress={this._onPressSketch}
           />
-
+          */}
         </View>
       </LoginView>
     );

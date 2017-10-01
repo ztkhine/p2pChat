@@ -192,13 +192,19 @@ export default class GroupChannel extends Component {
         'Chat Event',
         null,
         [
-          {text: 'Edit', onPress: () => {
+          //Modify by Khine, Change "Edit" to "Edit Chat" here
+          {text: 'Edit Chat', onPress: () => {
             _SELF.setState({editMode: true});
           }},
-          {text: 'Create', onPress: () => {
+          //Modify by Khine, Change "Create" to "Search Users" here
+          {text: 'Search Users', onPress: () => {
             _SELF.props.navigator.push({name: 'inviteUser', _onHideChannel: _SELF._onHideChannel, refresh: _SELF._refreshChannelList, });
           }},
-          {text: 'Cancel'}
+          //{text: 'Cancel'}//Comment by Khine
+          //Added by Khine, when user select cancel, set edit mode to false, so that user doen't need to click extra click which is DONE.
+          {text: 'Cancel', onPress: () => {
+            _SELF.setState({editMode: false});
+          }},
         ]
       )
     }
@@ -210,7 +216,7 @@ export default class GroupChannel extends Component {
         <TopBar
           onBackPress={this._onBackPress.bind(this)}
           onGroupChannel={this._onGroupChannel.bind(this)}
-          title='Chat'
+          title='Chats'
            />
 
         <View style={styles.listContainer}>
